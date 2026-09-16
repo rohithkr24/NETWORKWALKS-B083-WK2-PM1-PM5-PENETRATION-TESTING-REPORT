@@ -372,7 +372,7 @@ Evidence and screenshots collected during the practical activities:
 
 # 📚 Project Information
 
-**Program Name:** Cybersecurity Program at Networkwalks
+**Program Name:** Cybersecurity Program at Networkwalks |
 **Week:** 02
 **Modules:** W2-PM1 — Multiple Kali Tools | W2-PM5 — Zenmap Scanning |
 **Project:** Penetration Testing — Footprinting & Network Scanning |
