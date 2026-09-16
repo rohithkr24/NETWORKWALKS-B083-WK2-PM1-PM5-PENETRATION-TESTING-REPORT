@@ -339,17 +339,22 @@ Finally, I understood that reconnaissance and network scanning should always be 
 
 Evidence and screenshots collected during the practical activities include:
 
-* WHOIS results
+* whois results
 ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/f9a7f1d7001b1337fcb826108ba5d398df467b7e/1_whois_results.png)
-* WhatWeb results
-* Nslookup results
-* Curl HTTP header results
-* Wafw00f results
-* DNSRecon results
-* Windows `ipconfig` output
+* whatweb results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/2_whatweb_results.png)
+* nslookup results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/3_nslookup_results.png)
+* curl -I results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/4_curl_results.png)
+* wafw00f results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/5_wafw00f_results.png)
+* dnsrecon results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/6_dnsrecon_results.png)
 * Zenmap Ping Scan results
-* IP and MAC address information
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/7_Zenmap%20Ping%20Scan%20Results.png)
 * Zenmap network topology
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/543364626012eee5d3e93c7da848b179d5e06206/8_Zenmap%20Network%20Topology.png)
 
 
 
