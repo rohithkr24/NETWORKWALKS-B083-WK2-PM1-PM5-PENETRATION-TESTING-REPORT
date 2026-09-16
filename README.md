@@ -337,7 +337,7 @@ Finally, I understood that reconnaissance and network scanning should always be 
 
 # 📸 8. Evidence Collected
 
-Evidence and screenshots collected during the practical activities include:
+Evidence and screenshots collected during the practical activities:
 
 * whois results
 ![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/f9a7f1d7001b1337fcb826108ba5d398df467b7e/1_whois_results.png)
@@ -374,8 +374,8 @@ Evidence and screenshots collected during the practical activities include:
 
 **Program Name:** Cybersecurity Program at Networkwalks
 **Week:** 02
-**Modules:** W2-PM1 — Multiple Kali Tools | W2-PM5 — Zenmap Scanning
-**Project:** Penetration Testing — Footprinting & Network Scanning
+**Modules:** W2-PM1 — Multiple Kali Tools | W2-PM5 — Zenmap Scanning |
+**Project:** Penetration Testing — Footprinting & Network Scanning |
 **Repository:** GitHub
 
 ---
