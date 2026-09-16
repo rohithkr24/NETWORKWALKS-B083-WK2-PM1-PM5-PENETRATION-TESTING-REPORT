@@ -340,6 +340,7 @@ Finally, I understood that reconnaissance and network scanning should always be 
 Evidence and screenshots collected during the practical activities include:
 
 * WHOIS results
+![image alt](https://github.com/rohithkr24/NETWORKWALKS-B083-WK2-PM1-PM5-PENETRATION-TESTING-REPORT/blob/f9a7f1d7001b1337fcb826108ba5d398df467b7e/1_whois_results.png)
 * WhatWeb results
 * Nslookup results
 * Curl HTTP header results
@@ -350,14 +351,15 @@ Evidence and screenshots collected during the practical activities include:
 * IP and MAC address information
 * Zenmap network topology
 
-> Add the corresponding screenshots/evidence files to this section of the GitHub repository.
+
 
 ---
 
 # 👨‍💻 Author
 
 **Rohith K R**
-Cybersecurity Intern — B083
+
+**Cybersecurity Intern — B083**
 
 **LinkedIn:** [linkedin.com/in/rohith-k-r-55236a30b](https://linkedin.com/in/rohith-k-r-55236a30b)
 
