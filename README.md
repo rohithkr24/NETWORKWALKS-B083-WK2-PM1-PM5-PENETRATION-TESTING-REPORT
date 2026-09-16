@@ -7,7 +7,7 @@ Footprinting and reconnaissance attacks with multiple Kali tools &amp; Network S
 ## 👤 Author
 
 **Rohith K R**
-Cybersecurity Intern — B083 Networkwalks
+**Cybersecurity Intern — B083 Networkwalks**
 
 **Date:** 15 September 2026
 
